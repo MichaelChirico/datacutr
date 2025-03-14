@@ -33,7 +33,6 @@ Imports:
     reactable (>= 0.4.4)
 Suggests:
     devtools,
-    lintr,
     pkgdown,
     testthat,
     knitr,
